@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legends of Chakravyuh</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .banner {
+            background: url('banner.jpg') no-repeat center center/cover;
+            color: white;
+            padding: 100px 20px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .btn {
+            background: #ff4500;
+            color: white;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background: #e63900;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>Legends of Chakravyuh</header>
+
+<div class="banner">
+    The Dice Are in Your Hand, But Only Your Mind Can Make You a Legend!
+</div>
+
+<div class="container">
+    <h2>About the Game</h2>
+    <p>Legends of Chakravyuh is a strategic board game where players navigate through a maze, outsmart opponents, and break through the legendary Chakravyuh to claim victory.</p>
+    <a href="rules.html" class="btn">Read the Rules</a>
+</div>
+
+<footer>
+    &copy; 2025 OK Board Games. Designed by Kiran Kumar Barik.
+</footer>
+
+</body>
+</html>
